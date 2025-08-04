@@ -93,9 +93,9 @@ body {
 
 /* Hover state for the button */
 .cta-button:hover {
-    background: rgba(251, 191, 36, 0.9); /* Slightly transparent on hover */
-    transform: scale(1.05); /* Slight scale up effect */
-    box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.15); /* Enhanced shadow */
+    background: rgba(251, 191, 36, 0.9) !important; /* Slightly transparent on hover */
+    transform: scale(1.1) !important; /* More noticeable scale up effect */
+    box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.15) !important; /* Enhanced shadow */
 }
 
 /* Active state for the button (when clicked) */
